@@ -1,1 +1,1 @@
-# algoritmss-ds
+# algorithms and data structure
