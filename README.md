@@ -1,1 +1,1 @@
-# algoriths-ds
+# algoritmss-ds
